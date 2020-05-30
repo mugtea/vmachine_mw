@@ -74,7 +74,7 @@ namespace VendingMachine_MW
             }
             catch (Exception)
             {
-                Console.WriteLine("Silahkan uang pecahan 2000/5000/10000/20000/50000");
+                Console.WriteLine("Silahkan masukkan uang pecahan 2000/5000/10000/20000/50000");
                 goto start;
             }
         }
