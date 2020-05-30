@@ -1,0 +1,6 @@
+C:\Users\mugtea\source\repos\VendingMachine_MW\bin\Debug\VendingMachine_MW.exe.config
+C:\Users\mugtea\source\repos\VendingMachine_MW\bin\Debug\VendingMachine_MW.exe
+C:\Users\mugtea\source\repos\VendingMachine_MW\bin\Debug\VendingMachine_MW.pdb
+C:\Users\mugtea\source\repos\VendingMachine_MW\obj\Debug\VendingMachine_MW.csprojAssemblyReference.cache
+C:\Users\mugtea\source\repos\VendingMachine_MW\obj\Debug\VendingMachine_MW.exe
+C:\Users\mugtea\source\repos\VendingMachine_MW\obj\Debug\VendingMachine_MW.pdb
